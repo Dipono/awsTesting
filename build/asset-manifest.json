@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e061e0b9.css",
+    "main.js": "/static/js/main.3b66b57c.js",
+    "static/js/787.34d05ddd.chunk.js": "/static/js/787.34d05ddd.chunk.js",
+    "static/media/backpack.jpg": "/static/media/backpack.44d86d5732e725242618.jpg",
+    "static/media/apple_watche1.jpg": "/static/media/apple_watche1.f72b5e428118a591e9df.jpg",
+    "static/media/camera1.jpg": "/static/media/camera1.25b273dca48e30e9f565.jpg",
+    "static/media/apple_combo4.jpg": "/static/media/apple_combo4.58ee2d85b922a90ef4ab.jpg",
+    "static/media/applec_phone.jpg": "/static/media/applec_phone.4adfb3da3b1e1fa29423.jpg",
+    "static/media/apple_combo2.jpg": "/static/media/apple_combo2.7e180ff257af455ae2d5.jpg",
+    "static/media/apple_combo1.jpg": "/static/media/apple_combo1.80f9757782d9269eb942.jpg",
+    "static/media/apple_combo3.jpg": "/static/media/apple_combo3.5db262a331f1a98a06be.jpg",
+    "static/media/user.png": "/static/media/user.bcc74561d38db661b53f.png",
+    "static/media/star.png": "/static/media/star.618d11e122cbca3f8e9e.png",
+    "static/media/undraw_my_notifications_re_ehmk.svg": "/static/media/undraw_my_notifications_re_ehmk.3cd4424ccca53b7a4c2339262ead9683.svg",
+    "static/media/undraw_empty_cart_co35.svg": "/static/media/undraw_empty_cart_co35.254a4e0973addddae55b51b2c8515a64.svg",
+    "static/media/restaurant-svgrepo-com.svg": "/static/media/restaurant-svgrepo-com.e378835ecd0be4ca10f9a1f3c979edef.svg",
+    "static/media/payment-svgrepo-com.svg": "/static/media/payment-svgrepo-com.0c7bbc0240cbdd05b4cd6d42684dd423.svg",
+    "static/media/notification-svgrepo-com.svg": "/static/media/notification-svgrepo-com.621ff2b28bd4ee63e9641ebfc93d1917.svg",
+    "static/media/contact-details-svgrepo-com.svg": "/static/media/contact-details-svgrepo-com.3a6f82a59dfe0aeafaf927ab5054247b.svg",
+    "static/media/cart-svgrepo-com.svg": "/static/media/cart-svgrepo-com.f4a584c783ccc029be55d3b33e0fec1e.svg",
+    "static/media/avatar-svgrepo-com.svg": "/static/media/avatar-svgrepo-com.038a81d1d669f819ca6d048358d4392e.svg",
+    "static/media/home-svgrepo-com.svg": "/static/media/home-svgrepo-com.eb8734f568d159819859754a575e9101.svg",
+    "static/media/edit-svgrepo-com.svg": "/static/media/edit-svgrepo-com.8c602a7fab01400cfdc9fd3f8d2093f2.svg",
+    "static/media/right-thin-chevron-svgrepo-com.svg": "/static/media/right-thin-chevron-svgrepo-com.92fb95f98a275416172ce3a923d86ba7.svg",
+    "index.html": "/index.html",
+    "static/media/address-svgrepo-com.svg": "/static/media/address-svgrepo-com.be99fed09c7f3e00a95fc9f593d8f31e.svg",
+    "main.e061e0b9.css.map": "/static/css/main.e061e0b9.css.map",
+    "main.3b66b57c.js.map": "/static/js/main.3b66b57c.js.map",
+    "787.34d05ddd.chunk.js.map": "/static/js/787.34d05ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e061e0b9.css",
+    "static/js/main.3b66b57c.js"
+  ]
+}
